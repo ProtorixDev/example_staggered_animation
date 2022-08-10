@@ -6,7 +6,7 @@
 
 <p align="center"><samp><b> Can we have fun with Achievement View Toast with flutter?</b></samp></p>
 
-eautiful animations in your application in a simple way.
+Beautiful animations in your application in a simple way.
 
 Here I'm introducing a new flutter plugin that you can easily add different animations to your Flutter application..
 
