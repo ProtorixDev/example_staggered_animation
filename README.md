@@ -1,16 +1,33 @@
-# listview_animations
+<p align="center"><h1 align="center">Staggered Animations in Flutter</h1></p>
 
-A new Flutter project.
+<p><h3 align="center"><samp>Learn how to create an Awesome Animations.</h3></p>
 
-## Getting Started
+<p align="center"><samp><b> Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b></samp></p>
 
-This project is a starting point for a Flutter application.
+<p align="center"><samp><b> Can we have fun with Achievement View Toast with flutter?</b></samp></p>
 
-A few resources to get you started if this is your first Flutter project:
+eautiful animations in your application in a simple way.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here I'm introducing a new flutter plugin that you can easily add different animations to your Flutter application..
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## <a id="introduction">💫 Introduction
+
+The staggered animations are the animations which are set of animations which happens in a series one by one. It can be continuous, i.e. without delay. It can also be shipped with partical delay.
+  
+  
+  
+<h3><samp>Demo:</h3>
+
+![ezgif com-gif-maker(6)](https://user-images.githubusercontent.com/101086428/183837327-baf59dd0-c987-43d2-ba04-1e309c9dcc1f.gif)
+
+
+
+This demo gif shows how the staggered animations works in your flutter applications.
+
+
+
+
