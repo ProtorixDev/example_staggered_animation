@@ -4,7 +4,6 @@
 
 <p align="center"><samp><b> Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b></samp></p>
 
-<p align="center"><samp><b> Can we have fun with Achievement View Toast with flutter?</b></samp></p>
 
 Beautiful animations in your application in a simple way.
 
